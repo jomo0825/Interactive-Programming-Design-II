@@ -27,4 +27,6 @@ Class Materials
 11. Weapons & Attack
 12. Achievement System
 
-2024 Mr.Fu (傅子恒)
+Mr.Fu (傅子恒) 
+臺北科技大學
+2024
